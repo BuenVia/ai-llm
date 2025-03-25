@@ -1,0 +1,6 @@
+python-dotenv
+ollama
+requests
+ipython
+beautifulsoup4
+openai

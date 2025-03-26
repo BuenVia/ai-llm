@@ -44,4 +44,4 @@ def summarize(url):
     response = ollama.chat(model=MODEL, messages=messages_for(website))
     return response['message']['content']
 
-print(summarize("https://bbc.com/sport"))
+print(summarize("https://mjclifford.com"))
